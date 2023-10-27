@@ -48,7 +48,7 @@ To continue with setting up for a demo opa evaluation,
 
 (a) I quickly made a simple JSON file from the key/value pair:
 
-    {'machine_type': 'n1-standard-1'}
+    {'machine_type': 'n1-standard-2'}
 
     and named it machine.json.
 
