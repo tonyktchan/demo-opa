@@ -69,7 +69,7 @@ To continue with setting up for a demo opa evaluation,
 
 ## Next level ##
 
-As seen above, evaulating a simple policy is straightforward when you have all the necessary configuration (input and data for opa) from terraform.
+As seen above, evaluating a simple policy is straightforward when you have all the necessary configuration (input and data for opa) from terraform.
 
 In reality, the policies are much more complex in order to put in the Guardrails for each stage of GitOps with CICD pipelines (using maybe Google Cloud Build, Jenkins etc).
 
@@ -126,7 +126,7 @@ Cloud Security Posture Management is a mandatory effort if any organization want
 
 DevSecOps will be a critical component to ensure security risks and threats are minimized during cloud adoption and deployments.
 
-Opa is a nice CNCF graduated Security and Compliance project. It is cross-platform and extends into kubernetes, making it a very useful too to DevSecOps.
+Opa is a nice CNCF graduated Security and Compliance project. It is cross-platform and extends into kubernetes, making it a very useful tool to DevSecOps.
 
 Other open source tools are also available to compliment each other in order to create a full picture to evaluate the threats and intricacy of security/compliance challenges on the cloud.
 
