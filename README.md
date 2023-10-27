@@ -29,7 +29,7 @@ Do the following in sequence:
 
 By the end, you will have a running VM instance in the VPC/Subnet specified.
 
-## Get the JSON Objects from terraform plan
+## Get the JSON Objects from terraform plan and Perform simple Rego policy evaluation
 
 However, our objective is to infuse 'Shift-left' DevSecOps paradigm to this workflow.
 Let us focus on how to incorporate opa into validation of the terraform plan after you have the terraform plan in json and before you apply the terraform changes.
